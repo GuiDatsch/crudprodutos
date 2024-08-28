@@ -1,0 +1,14 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "crud de produtos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "guilherme",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
